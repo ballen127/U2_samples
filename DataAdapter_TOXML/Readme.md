@@ -1,0 +1,1 @@
+This is sample for how to export multivalue data of table into XML

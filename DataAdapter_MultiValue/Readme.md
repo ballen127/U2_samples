@@ -1,0 +1,1 @@
+This is sample for how to get multivalue data of table with Query

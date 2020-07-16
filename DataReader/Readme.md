@@ -1,0 +1,1 @@
+This is sample for how to create reader of table data
